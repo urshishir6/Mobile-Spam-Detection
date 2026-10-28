@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+# Uncomment the below based on your model's needs:
+# torch
+# transformers
+# scikit-learn
+# pandas
